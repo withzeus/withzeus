@@ -1,4 +1,4 @@
-# Hi there, I'm WithZeus! 👋
+# Hi there, I'm Zwe Sithu! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=withzeus&style=flat-square)
 
