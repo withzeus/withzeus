@@ -15,9 +15,7 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## 📈 GitHub Stats
 
-![WithZeus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=withzeus&show_icons=true&theme=catppuccin_latte)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=withzeus&layout=compact&theme=catppuccin_latte)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=withzeus&show_icons=true&theme=catppuccin_latte)
 
 ## 📫 How to reach me
 
