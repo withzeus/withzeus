@@ -15,4 +15,4 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 Here are some of the few personal projects I've worked on:
 
-- [**Tech forum**](https://overflow.mugi-tech.com) - Technical forum for burmese developers
+- [**Mugi overflow**](https://overflow.mugi-tech.com) - Technical forum for burmese developers
